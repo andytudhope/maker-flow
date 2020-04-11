@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-11T13:09:49.811Z" agent="5.0 (X11)" etag="18zakjLK6HJyr1aHxO7T" version="12.9.11" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-11T13:54:41.415Z" agent="5.0 (X11)" etag="lIQpQEjBRdYgoZ0JMw7d" version="12.9.11" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="3450" dy="1502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -684,7 +684,7 @@
           <mxGeometry x="1060" y="2078.5" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wWIgHTUVao9yodtmCtRv-265" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Regular Executive votes must have &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;an &lt;b&gt;expiration of 7 days&lt;/b&gt;, &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;meaning they blank themselves &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;after 7 days.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="1370" y="2025.5" width="270" height="60" as="geometry" />
+          <mxGeometry x="1410" y="2025.5" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wWIgHTUVao9yodtmCtRv-266" value="VOTE" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="650" y="2139" width="120" height="40" as="geometry" />
@@ -828,6 +828,15 @@
         </mxCell>
         <mxCell id="Rcl90NJqKMfxA1c8Agqm-29" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#FF8000;fontSize=24;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
           <mxGeometry x="-50" y="2025.5" width="20" height="424.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Rcl90NJqKMfxA1c8Agqm-30" value="" style="shape=mxgraph.signs.healthcare.assistive_listening_system;html=1;pointerEvents=1;fillColor=#00FF00;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;rounded=1;shadow=1;fontSize=24;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1387" y="2218" width="50" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="Rcl90NJqKMfxA1c8Agqm-31" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#FF0000;fontSize=24;fontColor=#FFFFFF;align=center;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="2025.5" width="20" height="434.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Rcl90NJqKMfxA1c8Agqm-33" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;MIP9 Community Greenlight Poll&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Also happens from&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Monday to Friday in 4th Week&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;of Governance Cycle&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Takes same form as Givernance Poll&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;detailed in Stage 7c&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;https://forum.makerdao.com/&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;t/mip9-community-greenlight/1911&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="2235" width="280" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
