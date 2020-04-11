@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-11T13:54:41.415Z" agent="5.0 (X11)" etag="lIQpQEjBRdYgoZ0JMw7d" version="12.9.11" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-11T14:38:09.574Z" agent="5.0 (X11)" etag="CG8lpZJ410ph68sodISc" version="12.9.11" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="3450" dy="1502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -288,7 +288,7 @@
           <mxGeometry x="660" y="843.25" width="46" height="53.5" as="geometry" />
         </mxCell>
         <mxCell id="wWIgHTUVao9yodtmCtRv-125" value="&lt;div&gt;NB&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;An MIP can be resubmitted 3 times (total) without going through phases 1-4 again.&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;labelBackgroundColor=none;strokeColor=#000000;fillColor=#FFFFFF;fontSize=14;align=left;" parent="1" vertex="1">
-          <mxGeometry x="850" y="832.25" width="170" height="156.75" as="geometry" />
+          <mxGeometry x="832" y="832.25" width="205" height="117.75" as="geometry" />
         </mxCell>
         <mxCell id="wWIgHTUVao9yodtmCtRv-129" value="&lt;div&gt;Submit to Formal &lt;br&gt;&lt;/div&gt;&lt;div&gt;Category in Maker Forum&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="625" y="900" width="130" height="50" as="geometry" />
@@ -445,13 +445,14 @@
           <mxGeometry x="580" y="1119.5" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="wWIgHTUVao9yodtmCtRv-183" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" parent="1" source="wWIgHTUVao9yodtmCtRv-182" edge="1">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="820" y="540" as="targetPoint" />
+          <mxGeometry x="-0.9417" relative="1" as="geometry">
+            <mxPoint x="580" y="550" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="840" y="1164" />
-              <mxPoint x="840" y="540" />
-              <mxPoint x="820" y="540" />
+              <mxPoint x="540" y="1165" />
+              <mxPoint x="540" y="550" />
+              <mxPoint x="580" y="550" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wWIgHTUVao9yodtmCtRv-184" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;" parent="1" source="wWIgHTUVao9yodtmCtRv-182" edge="1">
